@@ -11,7 +11,7 @@
 <p align="center">
   <a href="UPWORK_URL"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-17a500?logo=upwork&logoColor=white"></a>
   &nbsp;
-  <a href="#request-demo"><img src="https://img.shields.io/badge/Request-60–90s%20Demo-0ea5e9"></a>
+  <a href="#request-mvp"><img src="https://img.shields.io/badge/Get-48h%20MVP-0ea5e9"></a>
   &nbsp;
   <a href="mailto:EMAIL?subject=Project%20inquiry%20·%20Safronov%20Labs"><img src="https://img.shields.io/badge/Contact-Email-111827"></a>
 </p>
@@ -24,15 +24,15 @@
 - **Slack/Telegram assistants** with memory & roles
 
 **What you get every time**
-- One-click Docker run (no vendor lock)  
+- One-click **Docker** run (no vendor lock)  
 - Clean README + `.env.example`  
 - Optional **n8n workflow** export (`workflows/*.json`)  
-- Short handover video
+- 7-day support for the agreed scope
 
 **Process (48h MVP)**
 1) 15–30 min discovery → measurable KPI  
 2) Working MVP in **1–2 days** on your sample data  
-3) Handover: Docker one-click + docs + video
+3) Handover: Docker one-click + docs + support window
 
 ---
 
@@ -40,7 +40,7 @@
 **RAG Chatbot (FastAPI + Qdrant)**  
 - Starter **$149** — 1 source (PDF/Notion), one-click Docker, citations  
 - Standard **$299** — up to 3 sources, re-index, basic UI  
-- Pro **$499** — 5+ sources, auth, setup video  
+- Pro **$499** — 5+ sources, auth, setup notes  
 → <a href="UPWORK_URL">Buy on Upwork</a>
 
 **AI Agent + n8n (scrape → Sheet → Email/Slack)**  
@@ -60,12 +60,12 @@
 ---
 
 ## 💫 About Me
-> **AI Automation Engineer**. Previously **Mid-level Python Developer in large companies** (NDA): production FastAPI services, integrations, bots, data pipelines.  
-> Now at **Safronov Labs** I deliver scoped MVPs in **48 hours**.
+**AI Automation Engineer.** **5 years of commercial Python (mid-level):** production FastAPI services, integrations, bots, data pipelines.  
+Now at **Safronov Labs** I deliver scoped MVPs in **48 hours**.
 
 - Best fits: support/FAQ with citations, lead-qualifier agents, PDF→Sheet extraction, automations for Notion/HubSpot/Sheets  
 - Ask me about: Docker-first deploys, n8n workflows, Qdrant/pgvector, structured outputs & guardrails  
-- I ship demos *before* meetings — most clients see results within **24–48 h**
+- **Timezone:** Europe/Paris (UTC+2) · **Typical reply:** within 2–6 h on business days
 
 ---
 
@@ -99,6 +99,9 @@
 </div>
 
 ---
+
+## Request a 48h MVP
+<a id="request-mvp"></a>
 
 Send me:  
 1) link to a sample doc (PDF/Notion/Confluence)  
